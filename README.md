@@ -16,8 +16,8 @@ The goal of this project is to estimate Airbnb prices using Linear Regression an
 - Data Cleaning
 - Missing Value Handling
 - Feature Selection
-- Categorical Encoding
 - Train-Test Split
+- Feature Scaling
 - Linear Regression Model Training
 - Model Evaluation
 - Visualization
@@ -26,8 +26,8 @@ The goal of this project is to estimate Airbnb prices using Linear Regression an
 - Linear Regression
 
 ## Evaluation Results
-- MAE: 31.00
-- RMSE: 59.60
+- MAE: 30.90
+- RMSE: 59.58
 - R² Score: 0.63
 
 ## Visualization
